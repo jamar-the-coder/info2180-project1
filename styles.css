@@ -166,43 +166,34 @@ article img{
     text-align: left;
 }
 
+form button{
+    border-style: none;
+    outline-style: none;
+    background-color: #5A67D8;
+    border-radius: 5px;
+    color: white;
+    height: 45px;
+    width: 150px;
+}
 
+form{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
 
+form div{
+    padding: 5px 5px 5px 0px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.form-group input{
+    border-style: none;
+    outline-style: none;
+    border-radius: 5px;
+    height: 43px;
+    width: 310px;
+}
 
 footer{
     padding: 10px;
