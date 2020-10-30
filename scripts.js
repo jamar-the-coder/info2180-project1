@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function(){
             message.innerHTML = 'Please enter a valid email address'
         }
         else { 
-            message.innerHTML = `Thank you! Your email address ${email.value} has been added to our mailing list!`;
+            message.innerHTML = "Thank you! Your email address", ${email.value}, "has been added to our mailing list!";
         }
     });
 });
