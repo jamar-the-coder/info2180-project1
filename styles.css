@@ -4,7 +4,7 @@ body {
     font-size: 18px;
 }
 
-.container{
+.container {
     margin: 0 auto;
     max-width: 960px;
     width: 100%;
@@ -15,7 +15,7 @@ header{
     font-size: 18px;
 }
 
-header.container{
+header .container{
     text-align: center;
     display: flex;
     flex-direction: row;
@@ -50,7 +50,7 @@ li a{
     background-color: #E2E8F0;
 }
 
-.overview-hero.container{
+.overview-hero .container{
     justify-content: center;
     display: flex;
     flex-direction: row;
@@ -97,6 +97,11 @@ li a{
 .card img{
     height: 50%;
     width: 100%;
+}
+
+.testing{
+    background-color: #4A5568;
+    padding: 80px;
 }
 
 .testing .container{
