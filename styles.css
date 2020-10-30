@@ -66,3 +66,35 @@ li a{
 .overview-hero-text{
     width: 580px;
 }
+
+.learn-about h2{
+    font-size: 24px;
+    color: #48BB78;
+    padding-left: 25px; 
+}
+
+.cards{
+    padding: 0px 25px 25px 25px;
+    display:grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-gap: 30px;
+}
+
+.card{
+    padding: 0px 10px 10px 10px;
+    padding-bottom: 0;
+    box-shadow: 0 3px #888888; 
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #E2E8F0;
+}
+
+.card-body h3{
+    color: #48BB78;
+    font-size: 21px;
+}
+
+.card img{
+    height: 50%;
+    width: 100%;
+}
