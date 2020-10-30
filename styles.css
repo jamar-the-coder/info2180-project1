@@ -45,3 +45,24 @@ li a{
     color: #6b7280;
     text-decoration: none;
 }
+
+.overview-hero{
+    background-color: #E2E8F0;
+}
+
+.overview-hero.container{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.overview-hero img{
+    padding: 20px;
+    height:150px;
+    width: 200px;
+}
+
+.overview-hero-text{
+    width: 580px;
+}
