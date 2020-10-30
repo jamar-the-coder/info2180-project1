@@ -153,3 +153,15 @@ article img{
     width: 170px;
     border-radius: 50%;
 }
+
+.newsletter{
+    padding: 15px;
+    text-align: center;
+    background-color: #48BB78;
+    color: white;
+}
+
+.newsletter p{
+    padding: 0px 230px 0px 260px;
+    text-align: left;
+}
