@@ -98,3 +98,58 @@ li a{
     height: 50%;
     width: 100%;
 }
+
+.testing .container{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.testing-desciption{
+    padding-left: 15px;
+    width:590px;
+    color: white;
+}
+
+.cta{
+    text-align: center;
+    width: 200px;
+    height: 45px;
+}
+
+.cta .btn{
+    color: white;
+    background-color: #48BB78;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none; 
+}
+
+.stories h2{
+    color: #5A67D8;
+}
+
+article{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.article-body{
+    padding: 20px;
+}
+.article-body h3{
+    font-size: 18px;
+}
+
+.article-body a{
+    color: #5A67D8;
+    text-decoration: none;
+}
+
+article img{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+}
