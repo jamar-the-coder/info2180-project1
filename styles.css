@@ -6,7 +6,7 @@ body {
 
 .container {
     margin: 0 auto;
-    max-width: 960px;
+    max-width: 920px;
     width: 100%;
 }
 
@@ -23,7 +23,7 @@ header .container{
 }
 
 header h1{
-    padding-right: 300px;
+    padding-right: 290px;
     float: left;
     font-size: 18px;
 }
@@ -59,12 +59,12 @@ li a{
 
 .overview-hero img{
     padding: 20px;
-    height:150px;
-    width: 200px;
+    height: 110px;
+    width: 180px;
 }
 
 .overview-hero-text{
-    width: 580px;
+    width: 560px;
 }
 
 .learn-about h2{
@@ -76,7 +76,7 @@ li a{
 .cards{
     padding: 0px 25px 25px 25px;
     display:grid;
-    grid-template-columns: 300px 300px 300px;
+    grid-template-columns: 280px 280px 280px;
     grid-gap: 30px;
 }
 
@@ -95,13 +95,13 @@ li a{
 }
 
 .card img{
-    height: 50%;
+    height: 40%;
     width: 100%;
 }
 
 .testing{
     background-color: #4A5568;
-    padding: 80px;
+    padding: 60px;
 }
 
 .testing .container{
@@ -113,14 +113,14 @@ li a{
 
 .testing-desciption{
     padding-left: 15px;
-    width:590px;
+    width: 570px;
     color: white;
 }
 
 .cta{
     text-align: center;
-    width: 200px;
-    height: 45px;
+    width: 190px;
+    height: 40px;
 }
 
 .cta .btn{
@@ -167,7 +167,7 @@ article img{
 }
 
 .newsletter p{
-    padding: 0px 230px 0px 260px;
+    padding: 0px 230px 0px 240px;
     text-align: left;
 }
 
@@ -193,10 +193,8 @@ form div{
 }
 
 .form-group input{
-    border-style: none;
-    outline-style: none;
     border-radius: 5px;
-    height: 43px;
+    height: 41px;
     width: 310px;
 }
 
